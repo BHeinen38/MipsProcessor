@@ -1,0 +1,50 @@
+
+#
+# CprE 381 Generated Quartus Settings File
+#
+
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE115F29C7
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 18.0.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "19:07:08  JANUARY 28, 2019"
+set_global_assignment -name LAST_QUARTUS_VERSION "18.0.0 Standard Edition"
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name TOP_LEVEL_ENTITY MIPS_Processor
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/ALU.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/ALU_contr.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/Control_Logic.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/EX_MEM.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/ID_EX_Reg.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/IF_ID_Reg.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/MEM_WB_Reg.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/MIPS_Processor.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/PCReg.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/adder.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/adder_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/addsub_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/andg2.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/barrelShifter.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/bitExtender.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/bitFlipper.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/dffg.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/dffg_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/equalsZero.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fiveTo32Decoder.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/invg.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/invg_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/mem.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/mux16to1_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/mux2to1.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/mux2to1_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/mux32to1_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/mux4to1_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/org2.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/registerFile.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/register_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/repl_qb.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/rightBarrelShifter.vhd"
+set_global_assignment -name VHDL_FILE "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/xorg2.vhd"

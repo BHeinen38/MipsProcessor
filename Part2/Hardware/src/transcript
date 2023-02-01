@@ -1,0 +1,124 @@
+# //  Questa Sim-64
+# //  Version 2021.2 linux_x86_64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:32:20 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(69): Illegal concurrent statement.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(103): VHDL Compiler exiting
+# End time: 19:32:21 on Nov 11,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:34:12 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(83): Illegal sequential statement.
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(103): Illegal sequential statement.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(106): VHDL Compiler exiting
+# End time: 19:34:12 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:34:58 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(83): Illegal sequential statement.
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(103): Illegal sequential statement.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(106): VHDL Compiler exiting
+# End time: 19:34:58 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:35:12 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(83): Illegal sequential statement.
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(103): Illegal sequential statement.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(106): VHDL Compiler exiting
+# End time: 19:35:12 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:35:19 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(68): near "process": (vcom-1576) expecting BEGIN.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(68): VHDL Compiler exiting
+# End time: 19:35:19 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:35:31 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(71): near "if": syntax error
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(83): Illegal sequential statement.
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(103): Illegal sequential statement.
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(105): near "process": (vcom-1576) expecting ';'.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(105): VHDL Compiler exiting
+# End time: 19:35:31 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:35:47 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(83): Illegal sequential statement.
+# ** Error: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(103): Illegal sequential statement.
+# ** Note: /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd(106): VHDL Compiler exiting
+# End time: 19:35:47 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 19:39:12 on Nov 11,2021
+# vcom -reportprogress 300 -work work /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/fetchLogic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fetchLogic
+# -- Compiling architecture structural of fetchLogic
+# End time: 19:39:12 on Nov 11,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+add wave -position insertpoint vsim:/tb/MyMips/*

@@ -1,0 +1,468 @@
+
+Exception caught at 2021-12-02 19:59:59.318603:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.321626:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.329567:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.330534:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.335177:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.339337:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.339676:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.342112:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 19:59:59.348912:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-02 20:00:23.858946:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError: EOF when reading a line
+
+Exception caught at 2021-12-05 13:24:34.505371:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 13:24:34.505496:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 13:36:20.870027:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError: EOF when reading a line
+
+Exception caught at 2021-12-05 14:26:04.435704:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 14:26:04.445193:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 14:26:12.121219:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError: EOF when reading a line
+
+Exception caught at 2021-12-05 15:20:25.726103:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 15:20:25.731343:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 15:20:25.734441:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 15:20:25.737049:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 15:40:18.421804:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 15:54:50.938523:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 17:08:16.524089:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-05 17:08:16.527157:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 08:27:11.898694:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 08:27:11.899352:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 08:27:11.900788:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 09:49:34.021419:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 09:49:34.024021:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 09:49:34.058876:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 09:49:34.055662:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 09:49:34.066020:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:10:16.632409:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:10:20.985290:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:18:42.854942:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:18:42.855179:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:18:42.860136:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:18:42.861831:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:18:42.855937:
+Traceback (most recent call last):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1702, in __call__
+    return self.func(*args)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 197, in chooseSelectedFiles
+    test_framework.queueSimulation(asm_files_to_run, options)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 65, in queueSimulation
+    runSimulation(x,simOptions)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 72, in runSimulation
+    options['asm-path'] = mars.run_sim(asm_file=asm_Path)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 72, in run_sim
+    return run_sim()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 45, in run_sim
+    path = input('>').strip()
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 55, in main
+    run_gui.guiMain()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 156, in guiMain
+    window.mainloop()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1280, in mainloop
+    self.tk.mainloop(n)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1706, in __call__
+    self.widget._report_exception()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1449, in _report_exception
+    root.report_callback_exception(exc, val, tb)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 2091, in report_callback_exception
+    print("Exception in Tkinter callback", file=sys.stderr)
+OSError: [Errno 5] Input/output error
+
+Exception caught at 2021-12-06 14:18:42.856370:
+Traceback (most recent call last):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1702, in __call__
+    return self.func(*args)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 197, in chooseSelectedFiles
+    test_framework.queueSimulation(asm_files_to_run, options)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 65, in queueSimulation
+    runSimulation(x,simOptions)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 72, in runSimulation
+    options['asm-path'] = mars.run_sim(asm_file=asm_Path)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 72, in run_sim
+    return run_sim()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 45, in run_sim
+    path = input('>').strip()
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 55, in main
+    run_gui.guiMain()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 156, in guiMain
+    window.mainloop()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1280, in mainloop
+    self.tk.mainloop(n)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1706, in __call__
+    self.widget._report_exception()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1449, in _report_exception
+    root.report_callback_exception(exc, val, tb)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 2091, in report_callback_exception
+    print("Exception in Tkinter callback", file=sys.stderr)
+OSError: [Errno 5] Input/output error
+
+Exception caught at 2021-12-06 14:18:42.859744:
+Traceback (most recent call last):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1702, in __call__
+    return self.func(*args)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 197, in chooseSelectedFiles
+    test_framework.queueSimulation(asm_files_to_run, options)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 65, in queueSimulation
+    runSimulation(x,simOptions)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 72, in runSimulation
+    options['asm-path'] = mars.run_sim(asm_file=asm_Path)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 72, in run_sim
+    return run_sim()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 45, in run_sim
+    path = input('>').strip()
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 55, in main
+    run_gui.guiMain()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 156, in guiMain
+    window.mainloop()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1280, in mainloop
+    self.tk.mainloop(n)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1706, in __call__
+    self.widget._report_exception()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1449, in _report_exception
+    root.report_callback_exception(exc, val, tb)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 2091, in report_callback_exception
+    print("Exception in Tkinter callback", file=sys.stderr)
+OSError: [Errno 5] Input/output error
+
+Exception caught at 2021-12-06 14:18:43.901785:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError: EOF when reading a line
+
+Exception caught at 2021-12-06 14:49:55.436550:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError
+
+Exception caught at 2021-12-06 14:49:55.436658:
+Traceback (most recent call last):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1702, in __call__
+    return self.func(*args)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 197, in chooseSelectedFiles
+    test_framework.queueSimulation(asm_files_to_run, options)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 65, in queueSimulation
+    runSimulation(x,simOptions)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/test_framework.py", line 72, in runSimulation
+    options['asm-path'] = mars.run_sim(asm_file=asm_Path)
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 72, in run_sim
+    return run_sim()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/mars.py", line 45, in run_sim
+    path = input('>').strip()
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 55, in main
+    run_gui.guiMain()
+  File "/home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/internal/testpy/run_gui.py", line 156, in guiMain
+    window.mainloop()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1280, in mainloop
+    self.tk.mainloop(n)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1706, in __call__
+    self.widget._report_exception()
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 1449, in _report_exception
+    root.report_callback_exception(exc, val, tb)
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.6/tkinter/__init__.py", line 2091, in report_callback_exception
+    print("Exception in Tkinter callback", file=sys.stderr)
+OSError: [Errno 5] Input/output error
+
+Exception caught at 2021-12-06 14:51:47.952584:
+Traceback (most recent call last):
+  File "internal/testpy/test_framework.py", line 238, in <module>
+    main()
+  File "internal/testpy/test_framework.py", line 57, in main
+    input("Press Enter To Exit...")
+EOFError: EOF when reading a line

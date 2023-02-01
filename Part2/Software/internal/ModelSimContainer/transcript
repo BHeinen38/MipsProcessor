@@ -1,0 +1,80 @@
+# vsim -c -voptargs="+acc" tb -do "../testpy/modelsim_framework.do" 
+# Start time: 14:41:57 on Dec 06,2021
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# //  Questa Sim-64
+# //  Version 2021.2 linux_x86_64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb(mixed)#1
+# Loading work.mips_processor(structure)#1
+# Loading ieee.numeric_std(body)
+# Loading work.mem(rtl)#1
+# Loading work.fetchlogic(structural)#1
+# Loading work.pc(mixed)#1
+# Loading work.adder_n(structure)#1
+# Loading work.adder(structure)#1
+# Loading work.xorg2(dataflow)#1
+# Loading work.andg2(dataflow)#1
+# Loading work.org2(dataflow)#1
+# Loading work.if_id_reg(structural)#1
+# Loading work.dffg_n(structural)#1
+# Loading work.dffg(mixed)#1
+# Loading work.control_logic(dataflow)#1
+# Loading work.registerfile(structural)#1
+# Loading work.fiveto32decoder(mixed)#1
+# Loading work.register_n(structural)#1
+# Loading work.mux32to1_n(structural)#1
+# Loading work.mux4to1_n(structural)#1
+# Loading work.mux2to1_n(structural)#1
+# Loading work.mux2to1(structure)#1
+# Loading work.invg(dataflow)#1
+# Loading work.bitextender(behavioral)#1
+# Loading work.barrelshifter(structural)#1
+# Loading work.bitflipper(structural)#1
+# Loading work.rightbarrelshifter(structural)#1
+# Loading work.id_ex_reg(structural)#1
+# Loading work.dffg_n(structural)#2
+# Loading work.dffg_n(structural)#3
+# Loading work.dffg_n(structural)#4
+# Loading work.alu(structural)#1
+# Loading work.addsub_n(structure)#1
+# Loading work.invg_n(structure)#1
+# Loading work.barrelshifter(structural)#2
+# Loading work.mux16to1_n(structural)#1
+# Loading work.mux4to1_n(structural)#2
+# Loading work.mux2to1_n(structural)#2
+# Loading work.mux4to1_n(structural)#3
+# Loading work.alu_contr(dataflow)#1
+# Loading work.mux2to1_n(structural)#3
+# Loading work.ex_mem_reg(structural)#1
+# Loading work.mem_wb_reg(structural)#1
+# do ../testpy/modelsim_framework.do
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb/MyMips/DMem
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb/MyMips/IMem
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 920 ns  Iteration: 3  Instance: /tb/MyMips/DMem
+# ** Note: Data structure takes 92537752 bytes of memory
+#          Process time 0.45 seconds
+#          stop
+#    Time: 1180 ns  Iteration: 1  Instance: /tb
+# Break in Process P_DUMP_STATE at /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/tb.vhd line 146
+# Stopped at /home/bjheinen/cpre381/CPRE-381-Project-main/cpre-381-toolflow-fall-2021-v5/src/tb.vhd line 146
+# End time: 14:41:58 on Dec 06,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 3
